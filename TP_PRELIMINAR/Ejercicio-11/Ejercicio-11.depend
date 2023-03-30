@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1680072989 source:d:\unlam\primercuatri2023\materias\topicosdeprogramacion\ejercicios_resueltos\tp_preliminar\ejercicio-11\main.c
+	"header.h"
+
+1680072964 d:\unlam\primercuatri2023\materias\topicosdeprogramacion\ejercicios_resueltos\tp_preliminar\ejercicio-11\header.h
+	<stdio.h>
+	<stdlib.h>
+
