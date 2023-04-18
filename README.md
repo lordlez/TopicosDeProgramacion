@@ -12,7 +12,9 @@ Sin más, espero que estos aportes ayuden. Saludos!
 # :hammer_and_wrench: Tecnologías utilizadas
 Para el desarrollo de este proyecto se utilizó:
 
-• C
+• Lenguaje C
+
+• IDE Codeblocks
 
 • Mucha paciencia xd
 
