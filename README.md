@@ -14,7 +14,7 @@ Para el desarrollo de este proyecto se utilizó:
 
 • Lenguaje C
 
-• IDE Codeblocks
+• IDE Codeblocks 20.03
 
 • Mucha paciencia xd
 
