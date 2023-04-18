@@ -4,10 +4,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define CANTIDAD 5
+#define TAM 5
 
-void mostrarVector(int vector[], int ce);
-void mostrarVector(int vector[], int ce);
+void mostrarVector(int vector[], int tam);
+void mostrarVector(int vector[], int tam);
+void insertarPorPosicion(int vec[], int tam, int numero, int posicion);
 
 
 #endif // HEADER_H_INCLUDED
