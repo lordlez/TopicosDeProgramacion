@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1682562353 source:d:\unlam\primercuatri2023\materias\topicosdeprogramacion\ejercicios_resueltos\unidad_1_arrays\ejercicio-matriz-diagonales\funciones.c
+	"header.h"
+
+1682561817 d:\unlam\primercuatri2023\materias\topicosdeprogramacion\ejercicios_resueltos\unidad_1_arrays\ejercicio-matriz-diagonales\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1682561809 source:d:\unlam\primercuatri2023\materias\topicosdeprogramacion\ejercicios_resueltos\unidad_1_arrays\ejercicio-matriz-diagonales\main.c
+	"header.h"
+

@@ -4,8 +4,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include <ctype.h>
 
-#define ANIO_BASE 1600
+#define ANIO_BASE 1601
 #define VERDADERO 1
 #define FALSO 0
 
