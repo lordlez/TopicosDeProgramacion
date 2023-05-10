@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1683245064 source:d:\unlam\primercuatri2023\materias\topicosdeprogramacion\ejercicios_resueltos\clase_04_05_2023\main.c
+	<stdio.h>
+	<stdlib.h>
+

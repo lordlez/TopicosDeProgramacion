@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1683222271 source:d:\unlam\primercuatri2023\materias\topicosdeprogramacion\ejercicios_resueltos\seleccion_generico\funciones.c
+	"header.h"
+
+1683222551 d:\unlam\primercuatri2023\materias\topicosdeprogramacion\ejercicios_resueltos\seleccion_generico\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1683222376 source:d:\unlam\primercuatri2023\materias\topicosdeprogramacion\ejercicios_resueltos\seleccion_generico\main.c
+	"header.h"
+

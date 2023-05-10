@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1683135098 source:d:\unlam\primercuatri2023\materias\topicosdeprogramacion\ejercicios_resueltos\mi_strlen\funciones.c
+	"header.h"
+
+1683130972 d:\unlam\primercuatri2023\materias\topicosdeprogramacion\ejercicios_resueltos\mi_strlen\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1683134007 source:d:\unlam\primercuatri2023\materias\topicosdeprogramacion\ejercicios_resueltos\mi_strlen\main.c
+	"header.h"
+

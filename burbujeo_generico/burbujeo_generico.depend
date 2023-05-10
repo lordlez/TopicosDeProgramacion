@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1683226029 source:d:\unlam\primercuatri2023\materias\topicosdeprogramacion\ejercicios_resueltos\burbujeo_generico\main.c
+	"header.h"
+
+1683226137 d:\unlam\primercuatri2023\materias\topicosdeprogramacion\ejercicios_resueltos\burbujeo_generico\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
