@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1683830885 source:d:\unlam\primercuatri2023\materias\topicosdeprogramacion\ejercicios_resueltos\argumentos_main\main.c
+	<stdio.h>
+	<stdlib.h>
+
