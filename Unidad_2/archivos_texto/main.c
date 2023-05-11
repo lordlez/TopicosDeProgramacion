@@ -6,7 +6,7 @@ int main()
     char cad2[] = "archivo.txt";
 
     crear_archivo_texto_variable(cad, cad2);
-
+    leer_mostrar_archivo_texto_variable(cad2);
 
     return 0;
 }

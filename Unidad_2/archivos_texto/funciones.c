@@ -37,5 +37,23 @@ int crear_archivo_texto_variable(char *archivoOrigen, char *archivoDestino)
     return 0;
 }
 
+int leer_mostrar_archivo_texto_variable(char *nombreArchivo)
+{
+    char cad[100];
+    FILE *pf;
+    pf = fopen(nombreArchivo, "rt");
+    if(pf==NULL)
+        return -1;
+
+    while(fgets(cad, sizeof(cad), pf))
+    {
+        printf("%s\n", cad);
+    }
+
+    fclose(pf);
+    return 0;
+
+}
+
 
 

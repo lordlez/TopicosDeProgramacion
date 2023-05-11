@@ -20,8 +20,8 @@ typedef struct
     float sueldo;
 }t_empleado;
 
-int crear_archivo(char *nombreArchivo);
-int leer_archivo(char *nombreArchivo);
+int crear_archivo_binario(char *nombreArchivo);
+int leer_mostrar_archivo_binario(char *nombreArchivo);
 void mostrar_empleado(const t_empleado *emp);
 
 #endif // HEADER_H_INCLUDED

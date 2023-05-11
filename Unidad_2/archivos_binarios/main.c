@@ -4,9 +4,9 @@ int main()
 {
     char cad[] = "binario.dat";
 
-    crear_archivo(cad);
+    crear_archivo_binario(cad);
 
-    leer_archivo(cad);
+    leer_mostrar_archivo_binario(cad);
 
     return 0;
 }

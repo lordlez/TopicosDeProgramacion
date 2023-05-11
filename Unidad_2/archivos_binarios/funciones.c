@@ -1,6 +1,6 @@
 #include "header.h"
 
-int crear_archivo(char *nombreArchivo)
+int crear_archivo_binario(char *nombreArchivo)
 {
     t_empleado vectorEmpleados[] = {
                                     {1111, "Persona Uno", 'A', {1,1,2001},250},
@@ -21,7 +21,7 @@ int crear_archivo(char *nombreArchivo)
 }
 
 
-int leer_archivo(char *nombreArchivo)
+int leer_mostrar_archivo_binario(char *nombreArchivo)
 {
     t_empleado emp;
     FILE *pf;

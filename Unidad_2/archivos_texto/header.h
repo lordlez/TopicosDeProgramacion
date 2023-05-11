@@ -20,4 +20,7 @@ typedef struct
     float sueldo;
 }t_empleado;
 
+int crear_archivo_texto_variable(char *archivoOrigen, char *archivoDestino);
+int leer_mostrar_archivo_texto_variable(char *nombreArchivo);
+
 #endif // HEADER_H_INCLUDED
