@@ -1,0 +1,5 @@
+1111;Persona Uno;A;1/1/2001;250.00
+2222;Persona Dos;B;2/2/2002;260.00
+3333;Persona Tres;C;3/3/2003;270.00
+4444;Persona Cuatro;A;4/4/2004;280.00
+5555;Persona Cinco;B;5/5/2005;290.00
