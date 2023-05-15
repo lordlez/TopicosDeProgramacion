@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1684110651 source:d:\unlam\primercuatri2023\materias\topicosdeprogramacion\ejercicios_resueltos\unidad_3\ejercicio-3.9\main.c
+	"header.h"
+
+1684106512 d:\unlam\primercuatri2023\materias\topicosdeprogramacion\ejercicios_resueltos\unidad_3\ejercicio-3.9\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1684110666 source:d:\unlam\primercuatri2023\materias\topicosdeprogramacion\ejercicios_resueltos\unidad_3\ejercicio-3.9\funciones.c
+	"header.h"
+
