@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1685477542 source:d:\unlam\primercuatri2023\materias\topicosdeprogramacion\ejercicios_resueltos\insertar_en_vec_ordenado\main.c
+	"header.h"
+
+1685477369 d:\unlam\primercuatri2023\materias\topicosdeprogramacion\ejercicios_resueltos\insertar_en_vec_ordenado\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1685477417 source:d:\unlam\primercuatri2023\materias\topicosdeprogramacion\ejercicios_resueltos\insertar_en_vec_ordenado\funciones.c
+	"header.h"
+

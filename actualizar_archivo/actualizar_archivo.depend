@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1685499396 source:d:\unlam\primercuatri2023\materias\topicosdeprogramacion\ejercicios_resueltos\actualizar_archivo\funciones.c
+	"header.h"
+
+1685499414 d:\unlam\primercuatri2023\materias\topicosdeprogramacion\ejercicios_resueltos\actualizar_archivo\header.h
+	<stdio.h>
+	<stdlib.h>
+

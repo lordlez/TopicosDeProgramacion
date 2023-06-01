@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1684874683 source:d:\unlam\primercuatri2023\materias\topicosdeprogramacion\ejercicios_resueltos\merge_archivos\funciones.c
+	"header.h"
+
+1684869092 d:\unlam\primercuatri2023\materias\topicosdeprogramacion\ejercicios_resueltos\merge_archivos\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1684874774 source:d:\unlam\primercuatri2023\materias\topicosdeprogramacion\ejercicios_resueltos\merge_archivos\main.c
+	"header.h"
+
