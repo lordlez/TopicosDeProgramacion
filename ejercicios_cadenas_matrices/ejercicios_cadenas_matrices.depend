@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1686676134 source:d:\unlam\primercuatri2023\materias\topicosdeprogramacion\ejercicios_resueltos\ejercicios_cadenas_matrices\main.c
+	"header.h"
+
+1686852972 d:\unlam\primercuatri2023\materias\topicosdeprogramacion\ejercicios_resueltos\ejercicios_cadenas_matrices\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1686853793 source:d:\unlam\primercuatri2023\materias\topicosdeprogramacion\ejercicios_resueltos\ejercicios_cadenas_matrices\funciones.c
+	"header.h"
+

@@ -1,15 +1,27 @@
-#include <stdio.h>
-#include <stdlib.h>
+#include "header.h"
 
-//argumentos a main
 int main(int argc, char *argv[])
 {
-    int i;
+    char ruta[] = "empleados.dat";
+    char ruta2[] = "empleados_actu.dat";
+    float porcentaje;
 
-    for(i=0;i<argc;i++)
+    if(argc<3)
     {
-        printf("Parametro %d=%s\n", i, argv[i]);
+        return -1;
     }
+
+    porcentaje = atof(argv[3]);
+
+    crear_archivo(ruta);
+    crear_archivo_vacio(ruta2);
+    actualizar_archivo(ruta, ruta2, porcentaje);
+    puts(argv[0]);
+    puts(argv[1]);
+    puts(argv[2]);
+    puts(argv[3]);
+    leer_archivo(ruta2);
+
 
     return 0;
 }

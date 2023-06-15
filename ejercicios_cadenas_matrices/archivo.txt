@@ -1,0 +1,4 @@
+Hay solo dos clases de lenguajes de programacion: quellos de los que la gente esta siempre quejandose y aquellos que nadie usa -- Bjame Stroustrup
+La programacion en bajo nivel es buena para el alma del programador --John Carmacj, cofundador de id Software (El del doom!)
+La informatica tiene que ver con ordenadores que la astronomia con los telescopios -- Edgar W. Dijkstra
+No temo a los ordenadores; lo que temo es quedarme sin ellos --Isaac Asimov

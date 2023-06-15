@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1686085116 source:d:\unlam\primercuatri2023\materias\topicosdeprogramacion\ejercicios_resueltos\de_binario_a_binario\main.c
+	"header.h"
+
+1686084306 d:\unlam\primercuatri2023\materias\topicosdeprogramacion\ejercicios_resueltos\de_binario_a_binario\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1686085431 source:d:\unlam\primercuatri2023\materias\topicosdeprogramacion\ejercicios_resueltos\de_binario_a_binario\funciones.c
+	"header.h"
+

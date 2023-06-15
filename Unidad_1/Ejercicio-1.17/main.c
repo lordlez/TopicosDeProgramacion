@@ -3,6 +3,9 @@
 int main()
 {
     int fil1, col1, fil2, col2;
+    int mat1[100][100];
+    int mat2[100][100];
+    int mat3[100][100] = {0};
 
 
     printf("DATO: La cantidad de columnas de la primera matriz deben ser las mismas que las filas de la segunda matriz\n");
@@ -16,9 +19,6 @@ int main()
     printf("Ingrese columnas de la segunda matriz: ");
     scanf("%d", &col2);
 
-    int mat1[100][100];
-    int mat2[100][100];
-    int mat3[100][100] = {0};
 
     if(col1 == fil2)
     {
